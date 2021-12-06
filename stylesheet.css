@@ -5,10 +5,6 @@
   font-family: poppins, sans-serif;
 }
 
-/*
--------------------------Aditya
-*/
-
 .top-wrapper {
     max-width: 100%;
   
@@ -37,8 +33,7 @@
 body{
   justify-content: center;
   align-items: center;
-  /*display: flex; */
-  display: block; /* Aditya*/
+  display: block; 
   min-height: 100vh;
   background: linear-gradient(45deg, #ffff, #f7f6f6);
   background-attachment: fixed;
@@ -165,9 +160,6 @@ header {
   z-index: 10;
 }
 
-/*
------------------------------------------------------Aditya
-*/
 .logo {
     height: 45px;
     margin: 10px 0;
@@ -189,10 +181,6 @@ header {
   transition: all 0.5s;
   text-decoration: none;
 }
-
-/*
-------------------------------------------------Aditya
-*/
 
 .header-right {
   float: right;
@@ -366,6 +354,3 @@ footer a{
   padding: 0 10px;
   margin: 0 auto;
 }
-/*
------------------------------------------Aditya
-*/
